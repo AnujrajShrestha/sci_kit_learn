@@ -1,0 +1,14 @@
+Car brand - BMW,Audi,Tesla
+Fuel type - Petrol,Diesel,CNG
+
+machine don't know what is BMW, Petrol
+
+LinearR, KNN , Decision Tree accept numerical values 
+
+So, incoding is done foe it 
+
+BMW - 0  or [0,0,1]
+Audi - 1  or [0,1,0]
+Tesla - 2 or [1,0,0]
+
+it is called as label incoding or one-hot coding 
